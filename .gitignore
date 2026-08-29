@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test / tooling leftovers
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment secrets (never commit these)
+.env
+.env.*
