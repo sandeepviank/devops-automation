@@ -20,7 +20,7 @@ def users():
         {"id": 1, "name": "sunny"},
         {"id": 2, "name": "sandy"},
         {"id": 3, "name": "sony"},
-        {"id"}:4, "name":"sandeep"},
+        {"id":4, "name":"sandeep"},
 
     ])
 
